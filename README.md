@@ -6,7 +6,7 @@ Coursework Report
 * Component A - Presentation of Finding (25%)  
 * Component B - 3000 word report (75%)  
 
-###Component A - Presentation  
+### Component A - Presentation  
 Should consider the critical review from component B.  
 Discussing:
 * Limitations faced
