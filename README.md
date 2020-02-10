@@ -14,12 +14,12 @@ Discussing:
 * Presenting your proposed issue / trend / solution / roadmap and future work.  
 * Must include visual materials such as Powerpoint slides.  
 * No longer than 15 minutes.  
-* Presentation should address the questions:
-..* What are the chosen topics and their implications for cyber security?
-..* A brief overview of your findings in the literature review.
-..* Provide a comparison of similar selected papers and related security issues
+* Presentation should address the questions:  
+  * What are the chosen topics and their implications for cyber security?
+  * A brief overview of your findings in the literature review.
+  * Provide a comparison of similar selected papers and related security issues
 describing contributions, strengths, limitations, and weaknesses.  
-..* Your conclusions.  
+  * Your conclusions.  
 
 ### Component B - Report  
 3000 Words.  
@@ -36,10 +36,10 @@ addressed.
 * Make an influencing case as to why your proposal issue / solution is important  
   
 ### Deliverables  
-Component A:  
-...Present your findings and proposed solutions to the staff during the
+* Component A:  
+   Present your findings and proposed solutions to the staff during the
 assessment period, supporting powerpoint slides are to be submitted in PPT or
 PDF format before demonstration date.  
-Component B:  
-...Written report submitted via Blackboard before 1400h 02.04.2020 in either
-DOC or PDF format.
+* Component B:  
+Written report submitted via Blackboard before 1400h 02.04.2020 in either
+DOC or PDF format.  
